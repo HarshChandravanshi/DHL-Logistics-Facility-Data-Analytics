@@ -7,4 +7,6 @@ In conclusion, DHL Logistics Facility Data Analytics project, utilizing IBM Cogn
 
 One of the key accomplishments of our project was the creation of multiple analysis charts and graphs. These visual representations allowed us to effectively analyze and communicate complex data in a clear and concise manner. By leveraging the power of IBM Cognos Analytics, we were able to generate insightful visualizations that facilitated data-driven decision-making.
 
+One of the notable visualizations was the Area Chart showing city-wise DHL deliveries. This chart enabled us to identify the distribution of deliveries across different cities, providing a comprehensive overview of the geographic coverage of DHL's operations.
+
 # Case Study: Analysis of Medical Premium charges for insurers using IBM Watson Studio and ML 
