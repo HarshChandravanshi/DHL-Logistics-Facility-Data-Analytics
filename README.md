@@ -18,3 +18,5 @@ Overall, our DHL Logistics Facility Data Analytics project utilizing IBM Cognos 
 # Case Study: Analysis of Medical Premium charges for insurers using IBM Watson Studio and ML 
 
 In conclusion, case study on the analysis of medical premium charges for insurers, utilizing IBM Watson Studio, has provided valuable insights into the factors influencing premium rates in the healthcare industry. Through various stages of data refinement, descriptive analytics, exploratory analytics, and the implementation of an SPSS Modeler model, we have gained a comprehensive understanding of the underlying patterns and trends in medical premium charges.
+
+One of the key steps in our analysis was the data refinement process, which involved cleaning, transforming, and preparing the data for analysis. By ensuring data quality and consistency, we were able to generate accurate and reliable insights throughout the study.
