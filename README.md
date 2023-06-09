@@ -16,3 +16,5 @@ Furthermore, our analysis resulted in the creation of a summary chart and a bar 
 Overall, our DHL Logistics Facility Data Analytics project utilizing IBM Cognos Analytics has provided actionable insights into the delivery operations of DHL. The creation of analysis charts, interactive dashboards, and visualizations has enhanced decision-making processes, enabling stakeholders to optimize resource allocation, identify key delivery trends, and improve overall operational efficiency.
 
 # Case Study: Analysis of Medical Premium charges for insurers using IBM Watson Studio and ML 
+
+In conclusion, case study on the analysis of medical premium charges for insurers, utilizing IBM Watson Studio, has provided valuable insights into the factors influencing premium rates in the healthcare industry. Through various stages of data refinement, descriptive analytics, exploratory analytics, and the implementation of an SPSS Modeler model, we have gained a comprehensive understanding of the underlying patterns and trends in medical premium charges.
