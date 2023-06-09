@@ -11,4 +11,5 @@ One of the notable visualizations was the Area Chart showing city-wise DHL deliv
 
 Additionally, we utilized the analyzed data to create a dashboard that included various interactive visualizations. This dashboard featured insightful components such as the "Top N Deliveries by State and City" and "Top 3 State Deliveries." These components allowed for quick identification of the most significant delivery volumes and hotspots, assisting in resource allocation and operational planning.
 
+Furthermore, our analysis resulted in the creation of a summary chart and a bar chart showing deliveries. These visualizations provided a concise summary of key delivery metrics, such as total deliveries and delivery status breakdown, enabling stakeholders to gain a quick and comprehensive understanding of the overall performance.
 # Case Study: Analysis of Medical Premium charges for insurers using IBM Watson Studio and ML 
