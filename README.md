@@ -9,4 +9,6 @@ One of the key accomplishments of our project was the creation of multiple analy
 
 One of the notable visualizations was the Area Chart showing city-wise DHL deliveries. This chart enabled us to identify the distribution of deliveries across different cities, providing a comprehensive overview of the geographic coverage of DHL's operations.
 
+Additionally, we utilized the analyzed data to create a dashboard that included various interactive visualizations. This dashboard featured insightful components such as the "Top N Deliveries by State and City" and "Top 3 State Deliveries." These components allowed for quick identification of the most significant delivery volumes and hotspots, assisting in resource allocation and operational planning.
+
 # Case Study: Analysis of Medical Premium charges for insurers using IBM Watson Studio and ML 
