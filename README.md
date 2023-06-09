@@ -22,3 +22,5 @@ In conclusion, case study on the analysis of medical premium charges for insurer
 One of the key steps in our analysis was the data refinement process, which involved cleaning, transforming, and preparing the data for analysis. By ensuring data quality and consistency, we were able to generate accurate and reliable insights throughout the study.
 
 Descriptive analytics played a vital role in our analysis, allowing us to summarize and understand the characteristics of the dataset. By leveraging the power of IBM Watson Studio, we were able to perform descriptive analytics on the data, uncovering key information such as age distribution, gender disparities, premium rates, and regional variations.
+
+To further explore the relationships between different variables, we utilized box charts in our exploratory analytics. Specifically, we employed box charts to visualize the distribution of premiums across different age groups, split by gender, as well as premiums across different regions. These visualizations enabled us to identify potential patterns, outliers, and disparities that could impact premium charges.
